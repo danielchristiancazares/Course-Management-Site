@@ -1,0 +1,152 @@
+C:\Users\huajun zhang\Desktop\Solution136\Solution136\ServiceTest\bin\Debug\136ServiceTest.dll.config
+C:\Users\huajun zhang\Desktop\Solution136\Solution136\ServiceTest\bin\Debug\136ServiceTest.dll
+C:\Users\huajun zhang\Desktop\Solution136\Solution136\ServiceTest\bin\Debug\136ServiceTest.pdb
+C:\Users\huajun zhang\Desktop\Solution136\Solution136\ServiceTest\bin\Debug\136IRepository.dll
+C:\Users\huajun zhang\Desktop\Solution136\Solution136\ServiceTest\bin\Debug\136Service.dll
+C:\Users\huajun zhang\Desktop\Solution136\Solution136\ServiceTest\bin\Debug\Moq.dll
+C:\Users\huajun zhang\Desktop\Solution136\Solution136\ServiceTest\bin\Debug\POCO.dll
+C:\Users\huajun zhang\Desktop\Solution136\Solution136\ServiceTest\bin\Debug\Ninject.dll
+C:\Users\huajun zhang\Desktop\Solution136\Solution136\ServiceTest\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\huajun zhang\Desktop\Solution136\Solution136\ServiceTest\bin\Debug\136IRepository.pdb
+C:\Users\huajun zhang\Desktop\Solution136\Solution136\ServiceTest\bin\Debug\POCO.pdb
+C:\Users\huajun zhang\Desktop\Solution136\Solution136\ServiceTest\bin\Debug\136Service.pdb
+C:\Users\huajun zhang\Desktop\Solution136\Solution136\ServiceTest\bin\Debug\Moq.xml
+C:\Users\huajun zhang\Desktop\Solution136\Solution136\ServiceTest\bin\Debug\Ninject.pdb
+C:\Users\huajun zhang\Desktop\Solution136\Solution136\ServiceTest\bin\Debug\Ninject.xml
+C:\Users\huajun zhang\Desktop\Solution136\Solution136\ServiceTest\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\huajun zhang\Desktop\Solution136\Solution136\ServiceTest\obj\Debug\ServiceTest.csprojResolveAssemblyReference.cache
+C:\Users\huajun zhang\Desktop\Solution136\Solution136\ServiceTest\obj\Debug\136ServiceTest.dll
+C:\Users\huajun zhang\Desktop\Solution136\Solution136\ServiceTest\obj\Debug\136ServiceTest.pdb
+C:\Users\Daniel\Downloads\Solution136(2)\Solution136\Solution136\ServiceTest\bin\Debug\136ServiceTest.dll.config
+C:\Users\Daniel\Downloads\Solution136(2)\Solution136\Solution136\ServiceTest\bin\Debug\136ServiceTest.dll
+C:\Users\Daniel\Downloads\Solution136(2)\Solution136\Solution136\ServiceTest\bin\Debug\136ServiceTest.pdb
+C:\Users\Daniel\Downloads\Solution136(2)\Solution136\Solution136\ServiceTest\bin\Debug\136IRepository.dll
+C:\Users\Daniel\Downloads\Solution136(2)\Solution136\Solution136\ServiceTest\bin\Debug\136Service.dll
+C:\Users\Daniel\Downloads\Solution136(2)\Solution136\Solution136\ServiceTest\bin\Debug\Moq.dll
+C:\Users\Daniel\Downloads\Solution136(2)\Solution136\Solution136\ServiceTest\bin\Debug\POCO.dll
+C:\Users\Daniel\Downloads\Solution136(2)\Solution136\Solution136\ServiceTest\bin\Debug\Ninject.dll
+C:\Users\Daniel\Downloads\Solution136(2)\Solution136\Solution136\ServiceTest\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Daniel\Downloads\Solution136(2)\Solution136\Solution136\ServiceTest\bin\Debug\136IRepository.pdb
+C:\Users\Daniel\Downloads\Solution136(2)\Solution136\Solution136\ServiceTest\bin\Debug\POCO.pdb
+C:\Users\Daniel\Downloads\Solution136(2)\Solution136\Solution136\ServiceTest\bin\Debug\136Service.pdb
+C:\Users\Daniel\Downloads\Solution136(2)\Solution136\Solution136\ServiceTest\bin\Debug\Moq.xml
+C:\Users\Daniel\Downloads\Solution136(2)\Solution136\Solution136\ServiceTest\bin\Debug\Ninject.pdb
+C:\Users\Daniel\Downloads\Solution136(2)\Solution136\Solution136\ServiceTest\bin\Debug\Ninject.xml
+C:\Users\Daniel\Downloads\Solution136(2)\Solution136\Solution136\ServiceTest\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Daniel\Downloads\Solution136(2)\Solution136\Solution136\ServiceTest\obj\Debug\ServiceTest.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Downloads\Solution136(2)\Solution136\Solution136\ServiceTest\obj\Debug\136ServiceTest.dll
+C:\Users\Daniel\Downloads\Solution136(2)\Solution136\Solution136\ServiceTest\obj\Debug\136ServiceTest.pdb
+C:\Users\Daniel\Downloads\Solution136 - Compilation\Solution136\Solution136\ServiceTest\bin\Debug\136ServiceTest.dll.config
+C:\Users\Daniel\Downloads\Solution136 - Compilation\Solution136\Solution136\ServiceTest\bin\Debug\136ServiceTest.dll
+C:\Users\Daniel\Downloads\Solution136 - Compilation\Solution136\Solution136\ServiceTest\bin\Debug\136ServiceTest.pdb
+C:\Users\Daniel\Downloads\Solution136 - Compilation\Solution136\Solution136\ServiceTest\bin\Debug\136IRepository.dll
+C:\Users\Daniel\Downloads\Solution136 - Compilation\Solution136\Solution136\ServiceTest\bin\Debug\136Service.dll
+C:\Users\Daniel\Downloads\Solution136 - Compilation\Solution136\Solution136\ServiceTest\bin\Debug\Moq.dll
+C:\Users\Daniel\Downloads\Solution136 - Compilation\Solution136\Solution136\ServiceTest\bin\Debug\POCO.dll
+C:\Users\Daniel\Downloads\Solution136 - Compilation\Solution136\Solution136\ServiceTest\bin\Debug\Ninject.dll
+C:\Users\Daniel\Downloads\Solution136 - Compilation\Solution136\Solution136\ServiceTest\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Daniel\Downloads\Solution136 - Compilation\Solution136\Solution136\ServiceTest\bin\Debug\136IRepository.pdb
+C:\Users\Daniel\Downloads\Solution136 - Compilation\Solution136\Solution136\ServiceTest\bin\Debug\POCO.pdb
+C:\Users\Daniel\Downloads\Solution136 - Compilation\Solution136\Solution136\ServiceTest\bin\Debug\136Service.pdb
+C:\Users\Daniel\Downloads\Solution136 - Compilation\Solution136\Solution136\ServiceTest\bin\Debug\Moq.xml
+C:\Users\Daniel\Downloads\Solution136 - Compilation\Solution136\Solution136\ServiceTest\bin\Debug\Ninject.pdb
+C:\Users\Daniel\Downloads\Solution136 - Compilation\Solution136\Solution136\ServiceTest\bin\Debug\Ninject.xml
+C:\Users\Daniel\Downloads\Solution136 - Compilation\Solution136\Solution136\ServiceTest\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Daniel\Downloads\Solution136 - Compilation\Solution136\Solution136\ServiceTest\obj\Debug\ServiceTest.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Downloads\Solution136 - Compilation\Solution136\Solution136\ServiceTest\obj\Debug\136ServiceTest.dll
+C:\Users\Daniel\Downloads\Solution136 - Compilation\Solution136\Solution136\ServiceTest\obj\Debug\136ServiceTest.pdb
+C:\Users\Daniel\Downloads\Solution136 - Compilation\cse136\ServiceTest\bin\Debug\136ServiceTest.dll.config
+C:\Users\Daniel\Downloads\Solution136 - Compilation\cse136\ServiceTest\bin\Debug\136ServiceTest.dll
+C:\Users\Daniel\Downloads\Solution136 - Compilation\cse136\ServiceTest\bin\Debug\136ServiceTest.pdb
+C:\Users\Daniel\Downloads\Solution136 - Compilation\cse136\ServiceTest\bin\Debug\136IRepository.dll
+C:\Users\Daniel\Downloads\Solution136 - Compilation\cse136\ServiceTest\bin\Debug\136Service.dll
+C:\Users\Daniel\Downloads\Solution136 - Compilation\cse136\ServiceTest\bin\Debug\Moq.dll
+C:\Users\Daniel\Downloads\Solution136 - Compilation\cse136\ServiceTest\bin\Debug\POCO.dll
+C:\Users\Daniel\Downloads\Solution136 - Compilation\cse136\ServiceTest\bin\Debug\Ninject.dll
+C:\Users\Daniel\Downloads\Solution136 - Compilation\cse136\ServiceTest\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Daniel\Downloads\Solution136 - Compilation\cse136\ServiceTest\bin\Debug\136IRepository.pdb
+C:\Users\Daniel\Downloads\Solution136 - Compilation\cse136\ServiceTest\bin\Debug\POCO.pdb
+C:\Users\Daniel\Downloads\Solution136 - Compilation\cse136\ServiceTest\bin\Debug\136Service.pdb
+C:\Users\Daniel\Downloads\Solution136 - Compilation\cse136\ServiceTest\bin\Debug\Moq.xml
+C:\Users\Daniel\Downloads\Solution136 - Compilation\cse136\ServiceTest\bin\Debug\Ninject.pdb
+C:\Users\Daniel\Downloads\Solution136 - Compilation\cse136\ServiceTest\bin\Debug\Ninject.xml
+C:\Users\Daniel\Downloads\Solution136 - Compilation\cse136\ServiceTest\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Daniel\Downloads\Solution136 - Compilation\cse136\ServiceTest\obj\Debug\ServiceTest.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Downloads\Solution136 - Compilation\cse136\ServiceTest\obj\Debug\136ServiceTest.dll
+C:\Users\Daniel\Downloads\Solution136 - Compilation\cse136\ServiceTest\obj\Debug\136ServiceTest.pdb
+C:\Users\huajun zhang\Source\Repos\cse_136\ServiceTest\bin\Debug\136ServiceTest.dll.config
+C:\Users\huajun zhang\Source\Repos\cse_136\ServiceTest\bin\Debug\136ServiceTest.dll
+C:\Users\huajun zhang\Source\Repos\cse_136\ServiceTest\bin\Debug\136ServiceTest.pdb
+C:\Users\huajun zhang\Source\Repos\cse_136\ServiceTest\bin\Debug\136IRepository.dll
+C:\Users\huajun zhang\Source\Repos\cse_136\ServiceTest\bin\Debug\136Service.dll
+C:\Users\huajun zhang\Source\Repos\cse_136\ServiceTest\bin\Debug\Moq.dll
+C:\Users\huajun zhang\Source\Repos\cse_136\ServiceTest\bin\Debug\POCO.dll
+C:\Users\huajun zhang\Source\Repos\cse_136\ServiceTest\bin\Debug\Ninject.dll
+C:\Users\huajun zhang\Source\Repos\cse_136\ServiceTest\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\huajun zhang\Source\Repos\cse_136\ServiceTest\bin\Debug\136IRepository.pdb
+C:\Users\huajun zhang\Source\Repos\cse_136\ServiceTest\bin\Debug\POCO.pdb
+C:\Users\huajun zhang\Source\Repos\cse_136\ServiceTest\bin\Debug\136Service.pdb
+C:\Users\huajun zhang\Source\Repos\cse_136\ServiceTest\bin\Debug\Moq.xml
+C:\Users\huajun zhang\Source\Repos\cse_136\ServiceTest\bin\Debug\Ninject.pdb
+C:\Users\huajun zhang\Source\Repos\cse_136\ServiceTest\bin\Debug\Ninject.xml
+C:\Users\huajun zhang\Source\Repos\cse_136\ServiceTest\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\huajun zhang\Source\Repos\cse_136\ServiceTest\obj\Debug\ServiceTest.csprojResolveAssemblyReference.cache
+C:\Users\huajun zhang\Source\Repos\cse_136\ServiceTest\obj\Debug\136ServiceTest.dll
+C:\Users\huajun zhang\Source\Repos\cse_136\ServiceTest\obj\Debug\136ServiceTest.pdb
+C:\Users\Daniel\Documents\cse136\ServiceTest\bin\Debug\136ServiceTest.dll.config
+C:\Users\Daniel\Documents\cse136\ServiceTest\bin\Debug\136ServiceTest.dll
+C:\Users\Daniel\Documents\cse136\ServiceTest\bin\Debug\136ServiceTest.pdb
+C:\Users\Daniel\Documents\cse136\ServiceTest\bin\Debug\136IRepository.dll
+C:\Users\Daniel\Documents\cse136\ServiceTest\bin\Debug\136Service.dll
+C:\Users\Daniel\Documents\cse136\ServiceTest\bin\Debug\Moq.dll
+C:\Users\Daniel\Documents\cse136\ServiceTest\bin\Debug\POCO.dll
+C:\Users\Daniel\Documents\cse136\ServiceTest\bin\Debug\Ninject.dll
+C:\Users\Daniel\Documents\cse136\ServiceTest\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Daniel\Documents\cse136\ServiceTest\bin\Debug\136IRepository.pdb
+C:\Users\Daniel\Documents\cse136\ServiceTest\bin\Debug\POCO.pdb
+C:\Users\Daniel\Documents\cse136\ServiceTest\bin\Debug\136Service.pdb
+C:\Users\Daniel\Documents\cse136\ServiceTest\bin\Debug\Moq.xml
+C:\Users\Daniel\Documents\cse136\ServiceTest\bin\Debug\Ninject.pdb
+C:\Users\Daniel\Documents\cse136\ServiceTest\bin\Debug\Ninject.xml
+C:\Users\Daniel\Documents\cse136\ServiceTest\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Daniel\Documents\cse136\ServiceTest\obj\Debug\ServiceTest.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\cse136\ServiceTest\obj\Debug\136ServiceTest.dll
+C:\Users\Daniel\Documents\cse136\ServiceTest\obj\Debug\136ServiceTest.pdb
+C:\Users\huajun zhang\Source\Repos\cse136\ServiceTest\bin\Debug\136ServiceTest.dll.config
+C:\Users\huajun zhang\Source\Repos\cse136\ServiceTest\bin\Debug\136ServiceTest.dll
+C:\Users\huajun zhang\Source\Repos\cse136\ServiceTest\bin\Debug\136ServiceTest.pdb
+C:\Users\huajun zhang\Source\Repos\cse136\ServiceTest\bin\Debug\136IRepository.dll
+C:\Users\huajun zhang\Source\Repos\cse136\ServiceTest\bin\Debug\136Service.dll
+C:\Users\huajun zhang\Source\Repos\cse136\ServiceTest\bin\Debug\Moq.dll
+C:\Users\huajun zhang\Source\Repos\cse136\ServiceTest\bin\Debug\POCO.dll
+C:\Users\huajun zhang\Source\Repos\cse136\ServiceTest\bin\Debug\Ninject.dll
+C:\Users\huajun zhang\Source\Repos\cse136\ServiceTest\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\huajun zhang\Source\Repos\cse136\ServiceTest\bin\Debug\136IRepository.pdb
+C:\Users\huajun zhang\Source\Repos\cse136\ServiceTest\bin\Debug\POCO.pdb
+C:\Users\huajun zhang\Source\Repos\cse136\ServiceTest\bin\Debug\136Service.pdb
+C:\Users\huajun zhang\Source\Repos\cse136\ServiceTest\bin\Debug\Moq.xml
+C:\Users\huajun zhang\Source\Repos\cse136\ServiceTest\bin\Debug\Ninject.pdb
+C:\Users\huajun zhang\Source\Repos\cse136\ServiceTest\bin\Debug\Ninject.xml
+C:\Users\huajun zhang\Source\Repos\cse136\ServiceTest\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\huajun zhang\Source\Repos\cse136\ServiceTest\obj\Debug\ServiceTest.csprojResolveAssemblyReference.cache
+C:\Users\huajun zhang\Source\Repos\cse136\ServiceTest\obj\Debug\136ServiceTest.dll
+C:\Users\huajun zhang\Source\Repos\cse136\ServiceTest\obj\Debug\136ServiceTest.pdb
+C:\Users\Andrew\Source\Repos\cse136\ServiceTest\bin\Debug\136ServiceTest.dll.config
+C:\Users\Andrew\Source\Repos\cse136\ServiceTest\bin\Debug\136ServiceTest.dll
+C:\Users\Andrew\Source\Repos\cse136\ServiceTest\bin\Debug\136ServiceTest.pdb
+C:\Users\Andrew\Source\Repos\cse136\ServiceTest\bin\Debug\136IRepository.dll
+C:\Users\Andrew\Source\Repos\cse136\ServiceTest\bin\Debug\136Service.dll
+C:\Users\Andrew\Source\Repos\cse136\ServiceTest\bin\Debug\Moq.dll
+C:\Users\Andrew\Source\Repos\cse136\ServiceTest\bin\Debug\POCO.dll
+C:\Users\Andrew\Source\Repos\cse136\ServiceTest\bin\Debug\Ninject.dll
+C:\Users\Andrew\Source\Repos\cse136\ServiceTest\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Andrew\Source\Repos\cse136\ServiceTest\bin\Debug\136IRepository.pdb
+C:\Users\Andrew\Source\Repos\cse136\ServiceTest\bin\Debug\POCO.pdb
+C:\Users\Andrew\Source\Repos\cse136\ServiceTest\bin\Debug\136Service.pdb
+C:\Users\Andrew\Source\Repos\cse136\ServiceTest\bin\Debug\Moq.xml
+C:\Users\Andrew\Source\Repos\cse136\ServiceTest\bin\Debug\Ninject.pdb
+C:\Users\Andrew\Source\Repos\cse136\ServiceTest\bin\Debug\Ninject.xml
+C:\Users\Andrew\Source\Repos\cse136\ServiceTest\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Andrew\Source\Repos\cse136\ServiceTest\obj\Debug\ServiceTest.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Source\Repos\cse136\ServiceTest\obj\Debug\136ServiceTest.dll
+C:\Users\Andrew\Source\Repos\cse136\ServiceTest\obj\Debug\136ServiceTest.pdb

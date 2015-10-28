@@ -1,0 +1,38 @@
+C:\Users\huajun zhang\Desktop\Solution136\Solution136\POCO\bin\Debug\POCO.dll
+C:\Users\huajun zhang\Desktop\Solution136\Solution136\POCO\bin\Debug\POCO.pdb
+C:\Users\huajun zhang\Desktop\Solution136\Solution136\POCO\obj\Debug\POCO.csprojResolveAssemblyReference.cache
+C:\Users\huajun zhang\Desktop\Solution136\Solution136\POCO\obj\Debug\POCO.dll
+C:\Users\huajun zhang\Desktop\Solution136\Solution136\POCO\obj\Debug\POCO.pdb
+C:\Users\Daniel\Downloads\Solution136(2)\Solution136\Solution136\POCO\bin\Debug\POCO.dll
+C:\Users\Daniel\Downloads\Solution136(2)\Solution136\Solution136\POCO\bin\Debug\POCO.pdb
+C:\Users\Daniel\Downloads\Solution136(2)\Solution136\Solution136\POCO\obj\Debug\POCO.dll
+C:\Users\Daniel\Downloads\Solution136(2)\Solution136\Solution136\POCO\obj\Debug\POCO.pdb
+C:\Users\Daniel\Downloads\Solution136 - Compilation\Solution136\Solution136\POCO\bin\Debug\POCO.dll
+C:\Users\Daniel\Downloads\Solution136 - Compilation\Solution136\Solution136\POCO\bin\Debug\POCO.pdb
+C:\Users\Daniel\Downloads\Solution136 - Compilation\Solution136\Solution136\POCO\obj\Debug\POCO.dll
+C:\Users\Daniel\Downloads\Solution136 - Compilation\Solution136\Solution136\POCO\obj\Debug\POCO.pdb
+C:\Users\Daniel\Downloads\Solution136 - Compilation\Solution136\Solution136\POCO\obj\Debug\POCO.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Downloads\Solution136 - Compilation\cse136\POCO\bin\Debug\POCO.dll
+C:\Users\Daniel\Downloads\Solution136 - Compilation\cse136\POCO\bin\Debug\POCO.pdb
+C:\Users\Daniel\Downloads\Solution136 - Compilation\cse136\POCO\obj\Debug\POCO.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Downloads\Solution136 - Compilation\cse136\POCO\obj\Debug\POCO.dll
+C:\Users\Daniel\Downloads\Solution136 - Compilation\cse136\POCO\obj\Debug\POCO.pdb
+C:\Users\huajun zhang\Source\Repos\cse_136\POCO\bin\Debug\POCO.dll
+C:\Users\huajun zhang\Source\Repos\cse_136\POCO\bin\Debug\POCO.pdb
+C:\Users\huajun zhang\Source\Repos\cse_136\POCO\obj\Debug\POCO.csprojResolveAssemblyReference.cache
+C:\Users\huajun zhang\Source\Repos\cse_136\POCO\obj\Debug\POCO.dll
+C:\Users\huajun zhang\Source\Repos\cse_136\POCO\obj\Debug\POCO.pdb
+C:\Users\Daniel\Documents\cse136\POCO\bin\Debug\POCO.dll
+C:\Users\Daniel\Documents\cse136\POCO\bin\Debug\POCO.pdb
+C:\Users\Daniel\Documents\cse136\POCO\obj\Debug\POCO.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\cse136\POCO\obj\Debug\POCO.dll
+C:\Users\Daniel\Documents\cse136\POCO\obj\Debug\POCO.pdb
+C:\Users\huajun zhang\Source\Repos\cse136\POCO\bin\Debug\POCO.dll
+C:\Users\huajun zhang\Source\Repos\cse136\POCO\bin\Debug\POCO.pdb
+C:\Users\huajun zhang\Source\Repos\cse136\POCO\obj\Debug\POCO.dll
+C:\Users\huajun zhang\Source\Repos\cse136\POCO\obj\Debug\POCO.pdb
+C:\Users\huajun zhang\Source\Repos\cse136\POCO\obj\Debug\POCO.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Source\Repos\cse136\POCO\bin\Debug\POCO.dll
+C:\Users\Andrew\Source\Repos\cse136\POCO\bin\Debug\POCO.pdb
+C:\Users\Andrew\Source\Repos\cse136\POCO\obj\Debug\POCO.dll
+C:\Users\Andrew\Source\Repos\cse136\POCO\obj\Debug\POCO.pdb

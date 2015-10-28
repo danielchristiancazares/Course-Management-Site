@@ -1,0 +1,96 @@
+C:\Users\Daniel\Downloads\Solution136 - Compilation\Solution136\Solution136\Service\bin\Debug\136Service.dll
+C:\Users\Daniel\Downloads\Solution136 - Compilation\Solution136\Solution136\Service\bin\Debug\136Service.pdb
+C:\Users\Daniel\Downloads\Solution136 - Compilation\Solution136\Solution136\Service\bin\Debug\136IRepository.dll
+C:\Users\Daniel\Downloads\Solution136 - Compilation\Solution136\Solution136\Service\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Daniel\Downloads\Solution136 - Compilation\Solution136\Solution136\Service\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Daniel\Downloads\Solution136 - Compilation\Solution136\Solution136\Service\bin\Debug\Ninject.dll
+C:\Users\Daniel\Downloads\Solution136 - Compilation\Solution136\Solution136\Service\bin\Debug\POCO.dll
+C:\Users\Daniel\Downloads\Solution136 - Compilation\Solution136\Solution136\Service\bin\Debug\136IRepository.pdb
+C:\Users\Daniel\Downloads\Solution136 - Compilation\Solution136\Solution136\Service\bin\Debug\POCO.pdb
+C:\Users\Daniel\Downloads\Solution136 - Compilation\Solution136\Solution136\Service\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Daniel\Downloads\Solution136 - Compilation\Solution136\Solution136\Service\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Daniel\Downloads\Solution136 - Compilation\Solution136\Solution136\Service\bin\Debug\Ninject.pdb
+C:\Users\Daniel\Downloads\Solution136 - Compilation\Solution136\Solution136\Service\bin\Debug\Ninject.xml
+C:\Users\Daniel\Downloads\Solution136 - Compilation\Solution136\Solution136\Service\obj\Debug\136Service.dll
+C:\Users\Daniel\Downloads\Solution136 - Compilation\Solution136\Solution136\Service\obj\Debug\136Service.pdb
+C:\Users\Daniel\Downloads\Solution136 - Compilation\Solution136\Solution136\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Downloads\Solution136 - Compilation\cse136\Service\bin\Debug\136Service.dll
+C:\Users\Daniel\Downloads\Solution136 - Compilation\cse136\Service\bin\Debug\136Service.pdb
+C:\Users\Daniel\Downloads\Solution136 - Compilation\cse136\Service\bin\Debug\136IRepository.dll
+C:\Users\Daniel\Downloads\Solution136 - Compilation\cse136\Service\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Daniel\Downloads\Solution136 - Compilation\cse136\Service\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Daniel\Downloads\Solution136 - Compilation\cse136\Service\bin\Debug\Ninject.dll
+C:\Users\Daniel\Downloads\Solution136 - Compilation\cse136\Service\bin\Debug\POCO.dll
+C:\Users\Daniel\Downloads\Solution136 - Compilation\cse136\Service\bin\Debug\136IRepository.pdb
+C:\Users\Daniel\Downloads\Solution136 - Compilation\cse136\Service\bin\Debug\POCO.pdb
+C:\Users\Daniel\Downloads\Solution136 - Compilation\cse136\Service\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Daniel\Downloads\Solution136 - Compilation\cse136\Service\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Daniel\Downloads\Solution136 - Compilation\cse136\Service\bin\Debug\Ninject.pdb
+C:\Users\Daniel\Downloads\Solution136 - Compilation\cse136\Service\bin\Debug\Ninject.xml
+C:\Users\Daniel\Downloads\Solution136 - Compilation\cse136\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Downloads\Solution136 - Compilation\cse136\Service\obj\Debug\136Service.dll
+C:\Users\Daniel\Downloads\Solution136 - Compilation\cse136\Service\obj\Debug\136Service.pdb
+C:\Users\huajun zhang\Source\Repos\cse_136\Service\bin\Debug\136Service.dll
+C:\Users\huajun zhang\Source\Repos\cse_136\Service\bin\Debug\136Service.pdb
+C:\Users\huajun zhang\Source\Repos\cse_136\Service\bin\Debug\136IRepository.dll
+C:\Users\huajun zhang\Source\Repos\cse_136\Service\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\huajun zhang\Source\Repos\cse_136\Service\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\huajun zhang\Source\Repos\cse_136\Service\bin\Debug\Ninject.dll
+C:\Users\huajun zhang\Source\Repos\cse_136\Service\bin\Debug\POCO.dll
+C:\Users\huajun zhang\Source\Repos\cse_136\Service\bin\Debug\136IRepository.pdb
+C:\Users\huajun zhang\Source\Repos\cse_136\Service\bin\Debug\POCO.pdb
+C:\Users\huajun zhang\Source\Repos\cse_136\Service\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\huajun zhang\Source\Repos\cse_136\Service\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\huajun zhang\Source\Repos\cse_136\Service\bin\Debug\Ninject.pdb
+C:\Users\huajun zhang\Source\Repos\cse_136\Service\bin\Debug\Ninject.xml
+C:\Users\huajun zhang\Source\Repos\cse_136\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\huajun zhang\Source\Repos\cse_136\Service\obj\Debug\136Service.dll
+C:\Users\huajun zhang\Source\Repos\cse_136\Service\obj\Debug\136Service.pdb
+C:\Users\Daniel\Documents\cse136\Service\bin\Debug\136Service.dll
+C:\Users\Daniel\Documents\cse136\Service\bin\Debug\136Service.pdb
+C:\Users\Daniel\Documents\cse136\Service\bin\Debug\136IRepository.dll
+C:\Users\Daniel\Documents\cse136\Service\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Daniel\Documents\cse136\Service\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Daniel\Documents\cse136\Service\bin\Debug\Ninject.dll
+C:\Users\Daniel\Documents\cse136\Service\bin\Debug\POCO.dll
+C:\Users\Daniel\Documents\cse136\Service\bin\Debug\136IRepository.pdb
+C:\Users\Daniel\Documents\cse136\Service\bin\Debug\POCO.pdb
+C:\Users\Daniel\Documents\cse136\Service\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Daniel\Documents\cse136\Service\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Daniel\Documents\cse136\Service\bin\Debug\Ninject.pdb
+C:\Users\Daniel\Documents\cse136\Service\bin\Debug\Ninject.xml
+C:\Users\Daniel\Documents\cse136\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\cse136\Service\obj\Debug\136Service.dll
+C:\Users\Daniel\Documents\cse136\Service\obj\Debug\136Service.pdb
+C:\Users\huajun zhang\Source\Repos\cse136\Service\bin\Debug\136Service.dll
+C:\Users\huajun zhang\Source\Repos\cse136\Service\bin\Debug\136Service.pdb
+C:\Users\huajun zhang\Source\Repos\cse136\Service\bin\Debug\136IRepository.dll
+C:\Users\huajun zhang\Source\Repos\cse136\Service\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\huajun zhang\Source\Repos\cse136\Service\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\huajun zhang\Source\Repos\cse136\Service\bin\Debug\Ninject.dll
+C:\Users\huajun zhang\Source\Repos\cse136\Service\bin\Debug\POCO.dll
+C:\Users\huajun zhang\Source\Repos\cse136\Service\bin\Debug\136IRepository.pdb
+C:\Users\huajun zhang\Source\Repos\cse136\Service\bin\Debug\POCO.pdb
+C:\Users\huajun zhang\Source\Repos\cse136\Service\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\huajun zhang\Source\Repos\cse136\Service\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\huajun zhang\Source\Repos\cse136\Service\bin\Debug\Ninject.pdb
+C:\Users\huajun zhang\Source\Repos\cse136\Service\bin\Debug\Ninject.xml
+C:\Users\huajun zhang\Source\Repos\cse136\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\huajun zhang\Source\Repos\cse136\Service\obj\Debug\136Service.dll
+C:\Users\huajun zhang\Source\Repos\cse136\Service\obj\Debug\136Service.pdb
+C:\Users\Andrew\Source\Repos\cse136\Service\bin\Debug\136Service.dll
+C:\Users\Andrew\Source\Repos\cse136\Service\bin\Debug\136Service.pdb
+C:\Users\Andrew\Source\Repos\cse136\Service\bin\Debug\136IRepository.dll
+C:\Users\Andrew\Source\Repos\cse136\Service\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Andrew\Source\Repos\cse136\Service\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Andrew\Source\Repos\cse136\Service\bin\Debug\Ninject.dll
+C:\Users\Andrew\Source\Repos\cse136\Service\bin\Debug\POCO.dll
+C:\Users\Andrew\Source\Repos\cse136\Service\bin\Debug\136IRepository.pdb
+C:\Users\Andrew\Source\Repos\cse136\Service\bin\Debug\POCO.pdb
+C:\Users\Andrew\Source\Repos\cse136\Service\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Andrew\Source\Repos\cse136\Service\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Andrew\Source\Repos\cse136\Service\bin\Debug\Ninject.pdb
+C:\Users\Andrew\Source\Repos\cse136\Service\bin\Debug\Ninject.xml
+C:\Users\Andrew\Source\Repos\cse136\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Source\Repos\cse136\Service\obj\Debug\136Service.dll
+C:\Users\Andrew\Source\Repos\cse136\Service\obj\Debug\136Service.pdb
